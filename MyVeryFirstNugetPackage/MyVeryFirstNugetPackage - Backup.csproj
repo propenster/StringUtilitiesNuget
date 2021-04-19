@@ -4,7 +4,7 @@
     <TargetFrameworks>netstandard2.0;netstandard2.0;net45;netcoreapp3.1;netcoreapp2.0</TargetFrameworks>
     <OutputType>Exe</OutputType>
 
-    <PackageId>AppLogger</PackageId>
+    <PackageId>StringUtilities</PackageId>
 	<Version>1.0.0</Version>
 	<Authors>Faith Olusegun</Authors>
 	<Company>propenster_dev</Company>

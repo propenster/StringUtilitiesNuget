@@ -8,11 +8,12 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\GD0024\\source\\repos\\MyVeryFirstNugetPackage\\MyVeryFirstNugetPackage\\MyVeryFirstNugetPackage.csproj",
-        "projectName": "MyVeryFirstNugetPackage",
+        "projectName": "AppLogger",
         "projectPath": "C:\\Users\\GD0024\\source\\repos\\MyVeryFirstNugetPackage\\MyVeryFirstNugetPackage\\MyVeryFirstNugetPackage.csproj",
         "packagesPath": "C:\\Users\\GD0024\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\GD0024\\source\\repos\\MyVeryFirstNugetPackage\\MyVeryFirstNugetPackage\\obj\\",
         "projectStyle": "PackageReference",
+        "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -23,6 +24,10 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
+          "net45",
+          "netcoreapp2.0",
+          "netcoreapp3.1",
+          "netstandard2.0",
           "netstandard2.0"
         ],
         "sources": {
