@@ -1,0 +1,9 @@
+C:\Users\GD0024\source\repos\MyVeryFirstNugetPackage\MyVeryFirstNugetPackage\obj\Debug\netstandard2.0\MyVeryFirstNugetPackage.csprojAssemblyReference.cache
+C:\Users\GD0024\source\repos\MyVeryFirstNugetPackage\MyVeryFirstNugetPackage\obj\Debug\netstandard2.0\MyVeryFirstNugetPackage.AssemblyInfoInputs.cache
+C:\Users\GD0024\source\repos\MyVeryFirstNugetPackage\MyVeryFirstNugetPackage\obj\Debug\netstandard2.0\MyVeryFirstNugetPackage.AssemblyInfo.cs
+C:\Users\GD0024\source\repos\MyVeryFirstNugetPackage\MyVeryFirstNugetPackage\obj\Debug\netstandard2.0\MyVeryFirstNugetPackage.csproj.CoreCompileInputs.cache
+C:\Users\GD0024\source\repos\MyVeryFirstNugetPackage\MyVeryFirstNugetPackage\bin\Debug\netstandard2.0\MyVeryFirstNugetPackage.deps.json
+C:\Users\GD0024\source\repos\MyVeryFirstNugetPackage\MyVeryFirstNugetPackage\bin\Debug\netstandard2.0\MyVeryFirstNugetPackage.dll
+C:\Users\GD0024\source\repos\MyVeryFirstNugetPackage\MyVeryFirstNugetPackage\bin\Debug\netstandard2.0\MyVeryFirstNugetPackage.pdb
+C:\Users\GD0024\source\repos\MyVeryFirstNugetPackage\MyVeryFirstNugetPackage\obj\Debug\netstandard2.0\MyVeryFirstNugetPackage.dll
+C:\Users\GD0024\source\repos\MyVeryFirstNugetPackage\MyVeryFirstNugetPackage\obj\Debug\netstandard2.0\MyVeryFirstNugetPackage.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "06fYRxB+4QlqV+hV95BLzsm3NyvxBr0bQyfNUKal7B5T3JQL66qJgB5Lxuh4ykdVCM5XaPbrAYVT1vHPMKqkzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GD0024\\source\\repos\\MyVeryFirstNugetPackage\\MyVeryFirstNugetPackage\\MyVeryFirstNugetPackage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GD0024\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\GD0024\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
